@@ -7,5 +7,5 @@ Kövesse a mintát:
 Osztaly adatok!
 Adja meg melyik evfolyamra jar:10
 A 10. evfolyam melyik osztalyaba jar:c
-A diak a 10. evfolyam c osztalyaba jar!
+A diak a 10. evfolyam c osztalyaba jar!<újsor>
 ```
